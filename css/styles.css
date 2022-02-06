@@ -55,7 +55,7 @@ ul {
 }
 
 .logo {
-    margin-right: 93px;
+    margin-left: auto;
    
     color: #000;
    font-family: Raleway, sans-serif; 
@@ -207,11 +207,7 @@ text-align: center;
  .main {
      padding-top: 94px;
  }
-/* .advant { 
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 94px;
-}*/
+
 .advant {
    
     width: 1200px;
@@ -250,14 +246,18 @@ line-height: 1.7;}
 
 /* advantages */
 
-.job-section {
-    
-    width: 1200px;
-    padding: 94px 15px;
-
+.job-section {     
+    padding-top:  94px;
+    padding-bottom: 94px;
 }
-.job-title {
-   
+
+.job {
+width: 1200px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.job-title {   
     padding-bottom: 50px;
     
 font-weight: bold;
@@ -278,9 +278,15 @@ letter-spacing: 0.03em;
 /* team */
 
 .team-section {
-    width: 1200px;
-    padding: 94px 15px;
+        padding-top: 94px;
+        padding-bottom: 94px;
 }
+
+.team {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    }
 
 
 .team-title {
