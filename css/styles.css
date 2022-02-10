@@ -122,7 +122,6 @@ text-decoration: none;
     color: #2196F3
 }
 
-
 .our-works .name {
     display: none;
 }
@@ -136,6 +135,7 @@ text-decoration: none;
     color: #fff;
     text-align: center;
 }
+
  .solution .title {
   margin-top: 0px;
  
@@ -161,23 +161,14 @@ line-height: 1.9;
 letter-spacing: 0.06em;
 text-align: center;
 }
-
-
  
 .section-title {
     display: none;   
 }
 
-/* advantages */
  .main {
      padding-top: 94px;
  }
-
-/* .advant {    
-    width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
-}*/
 
 .advant-list {    
     display: flex;    
@@ -215,12 +206,6 @@ line-height: 1.7;}
     padding-bottom: 94px;
 }
 
-/* .job { 
-width: 1200px;
-padding-left: 15px;
-padding-right: 15px;
-}*/
-
 .job-title {   
     margin: 0px;
     padding: 0px;
@@ -248,13 +233,6 @@ letter-spacing: 0.03em;
         padding-bottom: 94px;
         background: var(--button-work-color);
 }
-
-/* .team { 
-    width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
-    }*/
-
 
 .team-title {
     margin: 0px;
@@ -373,7 +351,7 @@ text-align: center;
 .works .title {
     margin: 0px;
     padding: 0px;
-    margin-top: 20px;
+    margin-bottom: 20px;
    font-weight: bold;
 font-size: 18px;
 line-height: 2;
@@ -410,11 +388,6 @@ padding: 60px 0px;
 background-color: var(--backgroud-color);
 
 }
-
-/* .page-footer { 
-   padding-top: 60px;
-  padding-bottom: 60px;
-}*/
 
 .logo-footer {    
     display: block;
